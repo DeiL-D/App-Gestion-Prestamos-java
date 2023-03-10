@@ -1,0 +1,17 @@
+ejemploWebObj\aplicacion\dao\AlumnoRepository.class
+ejemploWebObj\aplicacion\cnl\ConsultasImpl.class
+ejemploWebObj\web\WebConfiguracionContexto.class
+ejemploWebObj\web\controladores\AlumnoController.class
+ejemploWebObj\aplicacion\AplicacionConfiguracionContexto.class
+ejemploWebObj\aplicacion\dao\Portatil.class
+ejemploWebObj\aplicacion\dao\PortatilRepository.class
+ejemploWebObj\aplicacion\dtos\AlumnoDto.class
+ejemploWebObj\aplicacion\dtos\PortatilDto.class
+ejemploWebObj\aplicacion\dtos\toDTOs.class
+ejemploWebObj\aplicacion\dtos\toDAOService.class
+ejemploWebObj\EnrutadorWeb.class
+ejemploWebObj\web\controladores\portatilController.class
+ejemploWebObj\aplicacion\dtos\toDTOService.class
+ejemploWebObj\aplicacion\dao\Alumno.class
+ejemploWebObj\aplicacion\dtos\toDAOs.class
+ejemploWebObj\aplicacion\cnl\ConsultasService.class
